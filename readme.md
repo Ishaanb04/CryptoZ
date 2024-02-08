@@ -6,6 +6,11 @@ Firebase
 FireBase Database
 Firebase Auth
 
+
+
+https://github.com/Ishaanb04/CryptoZ/assets/32113863/ab565b30-5d2a-4bd3-909e-553847fd53e7
+
+
 **Introduction**
 
 ZCrypto is an app that allows users to view the live prices of various crypto currencies and add
