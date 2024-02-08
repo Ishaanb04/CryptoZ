@@ -6,10 +6,7 @@ Firebase
 FireBase Database
 Firebase Auth
 
-
-
-https://github.com/Ishaanb04/CryptoZ/assets/32113863/ab565b30-5d2a-4bd3-909e-553847fd53e7
-
+https://github.com/Ishaanb04/CryptoZ/assets/32113863/040f11b9-a97f-4ef3-81d0-a1435c4f0de4
 
 **Introduction**
 
